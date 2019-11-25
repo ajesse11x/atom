@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "fs-plus": "^3.0.0",
-    "node-uuid": "~1.4.7",
+    "node-uuid": "~1.4.8",
     "stack-trace": "0.0.9",
     "underscore-plus": "1.x"
   },
